@@ -429,14 +429,7 @@ node desktop-agent/agent.js /path/to/watch
 
 ---
 
-## Team — Ctrl+Alt+Diablo
-
-| Member | Role |
-|--------|------|
-| **Yash Gadia** | Full-stack development, blockchain integration, mobile app |
-| **Sweta Kumari** | Research, forensic analysis pipeline, AI detection |
-| **Priyanshi Shrotriya** | UI/UX design, mobile experience, presentations |
-| **Shreyansh Khemka** | Smart contract development, testing, QA |
+## Team — CTRL FREAKS
 
 ---
 
